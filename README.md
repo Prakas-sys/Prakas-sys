@@ -7,7 +7,7 @@ UX/UI Designer and Vibe Coder.
 UX/UI Designer and Vibe Coder based in Nepal. I've been crafting user-centered designs for a year and vibe-coding beautiful, functional mobile apps using Flutter.
 > "It's not that I'm so smart, it's just that I stay with problems longer." — Albert Einstein
 * 🌍  I'm based in Nepal
-* 🖥️  See my portfolio at [Portfolio](http://prakashbalayar.com.np)
+* 🖥️  See my portfolio at [Portfolio](https://www.prakashbalayar.com.np/)
 * ✉️  You can contact me at [prakashbalayar92@gmail.com](mailto:prakashbalayar92@gmail.com)
 * 🚀  I'm currently working on [KHOZNA- Rental App](http://khozna.com)
 * 🧠  I'm currently learning Flutter
